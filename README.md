@@ -1,6 +1,6 @@
 # java-recursion-problems 
 
-####Recursion problems of various types and their solutions, in Java
+###Recursion problems of various types and their solutions, in Java
 
 
 *Recursion problems can be challenging and frustrating.* 
